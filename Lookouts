@@ -1,0 +1,21 @@
+CLIENT CAN 
+✅ Login /POST
+✅1/2 Deposit money /POST
+✅1/2 Withdraw money /PATCH
+✅1/2 Transfer funds to other users
+✅See a full list of their transactions /GET
+
+ADMIN CAN
+✅ Add client
+✅ Delete client
+- Reverse transactions (Transfer)
+- Disable a client account
+
+
+PROCESSES
+create a models folder
+
+
+there should be a file that holds all the clients cash and increases when he deposits or decreases when he withdrawls
+
+admin creates the accounts for users
